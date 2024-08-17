@@ -1,0 +1,24 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: blog by v8r
+theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
+
+params:
+  homeInfoParams:
+    Title: hi, it's vamshidhar
+    Content: and welcome to my blog where i share my learnings. i'm into software so that would be the center of interest.
