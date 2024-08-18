@@ -5,6 +5,9 @@ title: "127.0.0.1
 theme: "PaperMod"
 paginate: 5
 
+minify:
+  disableXML: true
+
 menu:
   main:
     - identifier: archives 
