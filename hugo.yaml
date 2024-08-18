@@ -1,7 +1,8 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: "deVamshi"
+title: "v8r"
 theme: "PaperMod"
+paginate: 5
 
 menu:
   main:
@@ -26,12 +27,10 @@ params:
   disableThemeToggle: true
 
   homeInfoParams:
-    Title: "hi \U0001F44B"
-    Content: > 
-      I'm an indie developer passionate about creating minimalistic productivity apps. Find my learning below.
-
-      [more about me](/about)
+    Title: "Hey, I'm vamshidhar."
+    Content: Welcome to my blog. Here, i share my learnings on tech, life and health.
       
+
   socialIcons: 
     - name: github
       title: Github profile

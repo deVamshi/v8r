@@ -1,7 +1,6 @@
 +++
 title = 'About Me'
 date = 2024-08-18T14:31:07+05:30
-draft = true
 url = "/about/"
 +++
 
