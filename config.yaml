@@ -1,4 +1,4 @@
-baseURL: https://v8r.vercel.app/
+baseURL: "https://devamshi.github.io/v8r/"
 languageCode: en-us
 title: "127.0.0.1"
 theme: "PaperMod"
