@@ -1,24 +1,51 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: blog by v8r
+title: "deVamshi"
 theme: "PaperMod"
 
 menu:
   main:
-    - identifier: archive
-      name: archive
-      url: /archive/
+    - identifier: archives 
+      name: archives
+      url: /archives/
       weight: 10
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: search
+      name: search
+      url: /search/
       weight: 30
-
+    - identifier: about 
+      name: about
+      url: /about/
+      weight: 40
 params:
+
+  disableThemeToggle: true
+
   homeInfoParams:
-    Title: hi, it's vamshidhar
-    Content: and welcome to my blog where i share my learnings. i'm into software so that would be the center of interest.
+    Title: "hi \U0001F44B"
+    Content: > 
+      I'm an indie developer passionate about creating minimalistic productivity apps. Find my learning below.
+
+      [more about me](/about)
+      
+  socialIcons: 
+    - name: github
+      title: Github profile
+      url: "https://github.com/deVamshi"
+    - name: linkedin
+      title: LinkedIn profile
+      url: "https://www.linkedin.com/in/vamshidhar-telugu-b10259181/"
+    - name: buymeacoffee
+      title: Support my work
+      url: "https://buymeacoffee.com/devamshi"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+

@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on blog by v8r</title>
+    <title>Posts on deVamshi</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on blog by v8r</description>
+    <description>Recent content in Posts on deVamshi</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Aug 2024 22:02:38 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 17 Aug 2024 22:02:38 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title>Here&#39;s how I achieved a perfect score of 1000/1000 on the AWS Certified Cloud Practitioner Exam in just ~10 days.</title>
+      <link>http://localhost:1313/posts/aws-clfc02/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aws-clfc02/</guid>
+      <description>My preparation for clf-c02 exam</description>
+    </item>
+    <item>
+      <title>changes for ‘24</title>
+      <link>http://localhost:1313/posts/changes-for-2024/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/changes-for-2024/</guid>
+      <description>what i&amp;rsquo;m planning for 2024</description>
+    </item>
+    <item>
+      <title>relationships</title>
+      <link>http://localhost:1313/posts/thoughts-on-relations/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thoughts-on-relations/</guid>
+      <description>thoughts on being in a relationship</description>
     </item>
   </channel>
 </rss>
