@@ -1,34 +1,38 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: "v8r"
+title: "127.0.0.1
+"
 theme: "PaperMod"
 paginate: 5
 
 menu:
   main:
     - identifier: archives 
-      name: archives
+      name: Archives 
       url: /archives/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: search
-      name: search
+      name: Search
       url: /search/
       weight: 30
     - identifier: about 
-      name: about
+      name: About Me
       url: /about/
       weight: 40
 params:
 
-  disableThemeToggle: true
+  env: production
+
+  disableThemeToggle: false
 
   homeInfoParams:
     Title: "Hey, I'm vamshidhar."
-    Content: Welcome to my blog. Here, i share my learnings on tech, life and health.
+    Content: > 
+      Welcome to my blog. Here, I share my learnings on tech, life and health.
       
 
   socialIcons: 
