@@ -1,7 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://v8r.vercel.app/
 languageCode: en-us
-title: "127.0.0.1
-"
+title: "127.0.0.1"
 theme: "PaperMod"
 paginate: 5
 
