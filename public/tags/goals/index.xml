@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Goals on 127.0.0.1</title>
-    <link>http://localhost:1313/tags/goals/</link>
+    <link>https://v8r.vercel.app/tags/goals/</link>
     <description>Recent content in Goals on 127.0.0.1</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/goals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://v8r.vercel.app/tags/goals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>changes for ‘24</title>
-      <link>http://localhost:1313/posts/changes-for-2024/</link>
+      <link>https://v8r.vercel.app/posts/changes-for-2024/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/changes-for-2024/</guid>
+      <guid>https://v8r.vercel.app/posts/changes-for-2024/</guid>
       <description>what i&amp;rsquo;m planning for 2024</description>
     </item>
   </channel>

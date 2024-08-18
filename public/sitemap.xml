@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://v8r.vercel.app/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aws/</loc>
+    <loc>https://v8r.vercel.app/tags/aws/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/career/</loc>
+    <loc>https://v8r.vercel.app/tags/career/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloud/</loc>
+    <loc>https://v8r.vercel.app/tags/cloud/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/aws-clfc02/</loc>
+    <loc>https://v8r.vercel.app/posts/aws-clfc02/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://v8r.vercel.app/posts/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://v8r.vercel.app/tags/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/changes-for-2024/</loc>
+    <loc>https://v8r.vercel.app/posts/changes-for-2024/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/goals/</loc>
+    <loc>https://v8r.vercel.app/tags/goals/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
+    <loc>https://v8r.vercel.app/tags/life/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/reflections/</loc>
+    <loc>https://v8r.vercel.app/tags/reflections/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/love/</loc>
+    <loc>https://v8r.vercel.app/tags/love/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/thoughts-on-relations/</loc>
+    <loc>https://v8r.vercel.app/posts/thoughts-on-relations/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://v8r.vercel.app/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://v8r.vercel.app/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://v8r.vercel.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://v8r.vercel.app/search/</loc>
   </url>
 </urlset>
